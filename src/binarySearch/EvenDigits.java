@@ -32,4 +32,11 @@ public class EvenDigits {
         }
         return count;
     }
+    static int digits2(int num) {
+        if (num < 0) {
+            num*= -1;
+        }
+        int ans = (int)(Math.log10(num) + 1);
+        return ans;
+    }
 }
