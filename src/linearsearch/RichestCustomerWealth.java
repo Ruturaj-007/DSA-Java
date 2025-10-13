@@ -1,6 +1,6 @@
 package linearsearch;
 
-import java.util.ArrayList;
+// https://leetcode.com/problems/richest-customer-wealth/
 
 public class RichestCustomerWealth {
     public static void main(String[] args) {
