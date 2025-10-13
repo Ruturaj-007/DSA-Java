@@ -1,6 +1,6 @@
-package binarySearch;
+package linearsearch;
 
-public class lowerBound {
+public class LowerBound {
     public static int findLowerBound(int[] arr) {
         int n = arr.length;
         int lo=0, hi=n-1;

@@ -1,6 +1,6 @@
-package binarySearch;
+package linearsearch;
 
-public class binary_search {
+public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5};
         int len = arr.length;
